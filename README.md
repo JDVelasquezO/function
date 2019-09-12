@@ -1,4 +1,4 @@
-# formulia
+# function
 
 ## Project setup
 ```
