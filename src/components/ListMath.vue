@@ -25,7 +25,7 @@
         >
           <template v-slot:activator>
             <v-list-item-content>
-              <v-list-item-title>Álgebra</v-list-item-title>
+              <v-list-item-title>Aplicaciones de las integrales</v-list-item-title>
             </v-list-item-content>
           </template>
 
@@ -70,8 +70,7 @@
   export default {
     data: () => ({
       admins: [
-        ['Propiedades de los exponentes'],
-        ['Propiedades de los radicales'],
+        ['Fuerza Hidrostática'],
       ],
       cruds: [
         ['Ángulos de un polígono'],
